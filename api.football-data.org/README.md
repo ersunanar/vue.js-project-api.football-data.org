@@ -1,4 +1,4 @@
-# ersun_anar_it537_project
+# vue.js_project (api.football-data.org)
 
 ## Project setup
 ```
